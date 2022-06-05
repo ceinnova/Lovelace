@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'Lovelace'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_37EAA82B3CCB4CD09A4EC9E6BADBE553 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6CD6FE55C61E4CE19CFA5B5162870BF3 }}
           package: .
